@@ -1,0 +1,19 @@
+{
+  "name": "bubo",
+  "version": "1.0.0",
+  "description": "Beep boop, I'm a Twitter bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendrick/bubo.git"
+  },
+  "author": "Kendrick Arnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendrick/bubo/issues"
+  },
+  "homepage": "https://github.com/kendrick/bubo#readme"
+}
